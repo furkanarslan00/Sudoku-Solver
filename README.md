@@ -72,4 +72,3 @@ python main.py
 **Furkan Arslan**
 📅 December 2024
 📧 furkan0tr0arslan@gmail.com
-
